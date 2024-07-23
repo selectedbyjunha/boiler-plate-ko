@@ -15,4 +15,6 @@ If you have problem, feel free to ask me ^^
 
 https://www.youtube.com/channel/UCFyXA9x8lpL3EYWeYhj4C4Q?view_as=subscriber
 # react-movie-app-ko
+https://github.com/jaewonhimnae/react-movie-app-ko
 # boiler-plate-ko
+https://github.com/jaewonhimnae/boiler-plate-ko
